@@ -38,3 +38,40 @@ NeutriCheck/
 │── database/          # PostgreSQL schema & queries
 │── docs/              # Documentation (future improvements, notes)
 │── README.md          # Project overview
+```
+
+## ⚡ Installation & Setup
+1.Clone the repository
+```bash
+git clone https://github.com/your-username/NeutriCheck.git
+cd NeutriCheck
+```
+1.Setup Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+3.Setup Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+4.Configure Database (PostgreSQL)
+-Import schema from database/schema.sql
+-Update .env with your DB credentials
+-Setup Google Vision API
+-Create a Google Cloud project
+-Enable Vision API
+-Download credentials JSON and set path in .env
+
+##Future Improvements
+📱 Mobile app version (React Native / Flutter)
+🌍 Multi-country ingredient & regulation support
+🤖 AI-based personalized health recommendations
+🔒 User authentication for saved history
+
+👩‍💻 Author
+Amit Kumar Madina
+
