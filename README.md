@@ -75,6 +75,6 @@ npm run dev
 -  User authentication for saved history
 
 ---
-##👩‍💻 Author
+## 👩‍💻 Author
 - Amit Kumar Madina
 ---
