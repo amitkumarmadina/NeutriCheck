@@ -73,7 +73,7 @@ npm run dev
 🤖 AI-based personalized health recommendations
 🔒 User authentication for saved history
 ---
-
+---
 ##👩‍💻 Author
 Amit Kumar Madina
-
+---
