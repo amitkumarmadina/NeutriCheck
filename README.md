@@ -67,13 +67,14 @@ npm run dev
 -Download credentials JSON and set path in .env
 
 ---
-## Future Improvements
-📱 Mobile app version (React Native / Flutter)
-🌍 Multi-country ingredient & regulation support
-🤖 AI-based personalized health recommendations
-🔒 User authentication for saved history
----
+
+## 🚀 Future Improvements  
+- Mobile app version (React Native / Flutter) 
+- Multi-country ingredient & regulation support  
+- AI-based personalized health recommendations 
+-  User authentication for saved history
+
 ---
 ##👩‍💻 Author
-Amit Kumar Madina
+- Amit Kumar Madina
 ---
