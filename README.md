@@ -67,6 +67,11 @@ npm run dev
 -Download credentials JSON and set path in .env
 
 ---
+## 📸 Demo
+
+![Upload Demo](ScreenShots/first.jpg)
+![Analysis Result](screenshots/second.jpg)
+
 
 ## 🚀 Future Improvements  
 - Mobile app version (React Native / Flutter) 
