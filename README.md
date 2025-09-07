@@ -69,8 +69,8 @@ npm run dev
 ---
 ## 📸 Demo
 
-![Upload Demo](ScreenShots/first.jpg)
-![Analysis Result](screenshots/second.jpg)
+![Upload Demo](ScreenShots.First.jpg)
+![Analysis Result](ScreenShots/Second.jpg)
 
 
 ## 🚀 Future Improvements  
